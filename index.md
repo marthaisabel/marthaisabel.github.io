@@ -9,7 +9,7 @@ Creando repositorios, GitHub Pages [Jekyll](https://jekyllrb.com/)
 Las mujeres en tecnología cada vez van tomando más espacios en el campo laboral, en startups, así como también, liderando proyectos de desarrollo de software, Internet de las cosas, Bid data y Blockchain.
 
 ```markdown
-Syntax highlighted code block
+Si creas una comunidad, recuerda que es diferente a crear una empresa, aunque te parezca que es lo mismo.
 
 # Header 1
 ## Header 2
