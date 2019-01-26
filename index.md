@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mujeres en Tecnología
 
-Las mujeres en tecnolog+ia cada vez van tomando más espacios en el campo laboral, en sectores corporativos, asícomo también, liderando proyectos de desarrollo de software.
+Las mujeres en tecnología cada vez van tomando más espacios en el campo laboral, en startups, así como también, liderando proyectos de desarrollo de software, Internet de las cosas, Bid data y Blockchain.
 
 ```markdown
 Syntax highlighted code block
