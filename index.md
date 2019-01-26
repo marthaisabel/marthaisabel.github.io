@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mujeres en Tecnología
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Las mujeres en tecnolog+ia cada vez van tomando más espacios en el campo laboral, en sectores corporativos, asícomo también, liderando proyectos de desarrollo de software.
 
 ```markdown
 Syntax highlighted code block
