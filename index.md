@@ -23,7 +23,7 @@ Si creas una comunidad, recuerda que es diferente a crear una empresa, aunque te
 
 **Bold** and _Italic_ and `Code` text
 
-![Foto](C:\Users\martha.estupinan\Pictures\PionerasDevCali2.jpg)
+![Foto](PionerasDevCali2)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
